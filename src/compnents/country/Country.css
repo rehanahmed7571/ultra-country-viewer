@@ -1,0 +1,9 @@
+.flag img{
+ 
+    height: 100px;
+  }
+  .single-country{
+    border: 1px solid red;
+    margin: 10px;
+    padding: 20px;
+  }
